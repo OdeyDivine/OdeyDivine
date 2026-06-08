@@ -7,7 +7,7 @@ I turn messy data into clean insights — and I'm learning to build the dashboar
 - 🔭 I’m currently focused on: **SQL, Python, HTML/CSS, and Tailwind**
 - 🌱 I’m currently learning: **Data Engineering @ CIL Academy**
 - 👯 I’m looking to collaborate on: **Data or small frontend projects**
-- 📫 How to reach me: **odeydivine17@gmail.com**
+- 📫 How to reach me: **odeydivine16@gmail.com**
 
 ---
 
