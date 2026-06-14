@@ -2,7 +2,7 @@
 
 I'm a Data Analyst transitioning into **Data Engineering**, with a growing interest in **Frontend Web Development**.
 
-I turn messy data into clean insights — and I'm learning to build the dashboards and pipelines that make it happen.
+I turn messy data into clean insights — and I'm learning to build the **dashboards and pipelines that make it happen**.
 
 - 🔭 I’m currently focused on: **SQL, Python, HTML/CSS, and Tailwind**
 - 🌱 I’m currently learning: **AI & Data Engineering @ Boycode & CIL Academy respectively**
