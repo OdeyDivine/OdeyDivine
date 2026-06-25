@@ -7,8 +7,8 @@ I turn messy data into clean insights — and I'm learning to build the **dashbo
 - 🔭 I’m currently focused on: **SQL, Python, HTML/CSS, and Tailwind**
 - 🌱 I’m currently learning: **AI & Data Engineering @ Boycode & CIL Academy respectively**
 - 👯 I’m looking to collaborate on: **Data or small frontend projects**
-- 📫 How to reach me: **odeydivine17@gmail.com**
-
+- 📫 How to reach me: **odeydivingmail.com**
+¹
 ---
 
 ## 📌 Featured Projects
