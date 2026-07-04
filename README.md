@@ -66,7 +66,6 @@ Here are some of the projects I'm most proud of. They showcase my skills in data
 - Build scalable data projects
 - Improve backend and cloud knowledge
 - Create production-ready portfolio projects
-- Transition from 
 
 ---
 
