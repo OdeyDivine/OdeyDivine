@@ -5,7 +5,7 @@ I'm a Data Analyst transitioning into **Data Engineering**, with a growing inter
 I turn messy data into clean insights — and I'm learning to build the **dashboards and pipelines that make it happen**.
 
 - I’m currently focused on: **SQL, Python, HTML/CSS, JavaScript, and Tailwind**
-- I’m currently learning **Data Engineering @CIL Academy** and interning as a **Machine Learning 
+- I’m currently learning **Data Engineering @CIL Academy** and interning as a **Machine Learning Engineer
 
 - I’m looking to collaborate on: **Data or small frontend projects**
 - How to reach me: **odeydivine16@gmail.com**
