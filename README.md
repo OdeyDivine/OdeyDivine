@@ -7,7 +7,7 @@ I turn messy data into clean insights — and I'm learning to build the **dashbo
 - I’m currently focused on: **SQL, Python, HTML/CSS, JavaScript, and Tailwind**
 - I’m currently learning **Data Engineering @CIL Academy** and interning as a **Machine Learning Engineer @Flyrank AI**
 
-- I’m looking to collaborate on: **Data or small frontend projects**
+- I’m looking to collaborate on: **Data or ML projects**
 - How to reach me: **odeydivine16@gmail.com**
 ¹
 ---
