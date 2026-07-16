@@ -8,7 +8,7 @@ I turn messy data into clean insights — and I'm learning to build the **dashbo
 - I’m currently learning **Data Engineering @CIL Academy** and interning as a **Machine Learning Engineer @Flyrank AI**
 
 - I’m looking to collaborate on: **Data or ML projects**
-- How to reach me: **odeydivine17@gmail.com**
+- How to reach me: **odeydivine18@gmail.com**
 ¹
 ---
 
