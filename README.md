@@ -1,6 +1,6 @@
 # Hi, I'm Odey Divine 👋
 
-I'm a Data Analyst transitioning into **Data Engineering**, with a growing interest in **Software Development**.
+I'm a Data Analyst transitioning into **Data Engineering**, with a growing interest in **AI/ML Engineering**.
 
 I turn messy data into clean insights — and I'm learning to build the **dashboards and pipelines that make it happen**.
 
