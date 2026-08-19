@@ -1,3 +1,4 @@
+![Banner](banner.png)
 # Hi, I'm Odey Divine 👋
 
 I'm a Data Analyst turned **AI & Data Engineer**, passionate about building intelligent systems that turn raw data into real impact.
