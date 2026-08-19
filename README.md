@@ -1,31 +1,32 @@
 # Hi, I'm Odey Divine 👋
 
-I'm a Data Analyst transitioning into **Data Engineering**, with a growing interest in **AI/ML Engineering**.
+I'm a Data Analyst turned **AI & Data Engineer**, passionate about building intelligent systems that turn raw data into real impact.
 
-I turn messy data into clean insights — and I'm learning to build the **dashboards and pipelines that make it happen**.
+Currently interning as a **Machine Learning Engineer** and sharpening my skills in **Data Engineering**, **Data Science**, and **Generative AI**.
 
-- I’m currently focused on: **SQL, Python, HTML/CSS, JavaScript, and Tailwind**
-- I’m currently learning **Data Engineering @CIL Academy** and interning as a **Machine Learning Engineer @Flyrank AI**
+---
 
-- I’m looking to collaborate on: **Data or ML projects**
-- How to reach me: **odeydivine16@gmail.com**
-¹
+## 🔭 What I'm Working On
+
+- **Machine Learning & GenAI** — Building models and AI-powered solutions @Flyrank AI
+- **Data Engineering** — Learning pipelines, ETL, and cloud infrastructure @CIL Academy
+- **Data Science** — Exploring ML, LLMs, and real-world applications @DataraFlow
+- **Full-Stack Foundations** — HTML, CSS, Tailwind, JavaScript, and React (coming soon)
+
 ---
 
 ## 📌 Featured Projects
 
-Here are some of the projects I'm most proud of. They showcase my skills in data cleaning, analysis, visualization, and insight generation.
-
-| Project | Description | Key Skills / Tools |
+| Project | Description | Tools |
 | :--- | :--- | :--- |
-| **[GlobalTech Workforce Dashboard](https://github.com/OdeyDivine/GlobalTech-Solutions)** | An interactive Excel dashboard analyzing workforce headcount, compensation, and experience for GlobalTech Solutions. | `Excel` `Data Visualization` `Dashboard Design` |
-| **[Adidas US Sales Analysis](https://github.com/OdeyDivine/EasyTech-Adidas-Sales-Analysis)** | An in-depth exploratory analysis of Adidas sales data, providing product and regional insights and strategic recommendations. | `EDA` `Excel` `Figma` `Business Insights` |
-| **[Titanic Survival Analysis](https://github.com/OdeyDivine/Titanic-Survival-Analysis)** | A classic data science project cleaning and analyzing the Titanic dataset to identify key factors influencing passenger survival. | `Python` `Pandas` `Matplotlib` `Data Cleaning` |
-| **[Electronics Sales Dashboard](https://github.com/OdeyDivine/Electronics-Sales)** | A Power BI dashboard exploring electronics sales data to uncover product and regional performance trends. | `Power BI` `Data Modeling` `Dashboard Design` |
+| **[GlobalTech Workforce Dashboard](https://github.com/OdeyDivine/GlobalTech-Solutions)** | Interactive Excel dashboard analyzing workforce headcount, compensation, and experience. | `Excel` `Data Viz` `Dashboard Design` |
+| **[Adidas US Sales Analysis](https://github.com/OdeyDivine/EasyTech-Adidas-Sales-Analysis)** | Exploratory analysis of Adidas sales data with product, regional, and channel insights. | `EDA` `Excel` `Figma` `Business Insights` |
+| **[Titanic Survival Analysis](https://github.com/OdeyDivine/Titanic-Survival-Analysis)** | Cleaned and analyzed Titanic data to identify survival predictors using Python. | `Python` `Pandas` `Matplotlib` `Data Cleaning` |
+| **[Electronics Sales Dashboard](https://github.com/OdeyDivine/Electronics-Sales)** | Power BI dashboard exploring electronics sales trends and performance. | `Power BI` `Data Modeling` `Dashboard Design` |
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white"/>
@@ -62,19 +63,21 @@ Here are some of the projects I'm most proud of. They showcase my skills in data
 
 ---
 
-## Current Goals
-- Strengthen my software engineering fundamentals
-- Build scalable data projects
-- Improve backend and cloud knowledge
-- Create production-ready portfolio projects
+## 🎯 Current Goals
+
+- Build and deploy end-to-end ML and GenAI projects
+- Strengthen Data Engineering skills (pipelines, cloud, orchestration)
+- Contribute to open-source and collaborate with others
+- Land my first full-time AI/Data Engineering role
 
 ---
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://linkedin.com/in/odey-divine) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://linkedin.com/in/odey-divine)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://odey-divine-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:odeydivine16@gmail.com)
 
 ---
 
-*Thanks for visiting! I'm always open to feedback, collaboration, or small freelance gigs. Feel free to reach out.*
+*Always building. Always learning. Always open to feedback, collaboration, or opportunities.*
