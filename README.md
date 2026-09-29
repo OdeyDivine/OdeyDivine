@@ -12,7 +12,6 @@ Currently interning as a **Machine Learning Engineer** and sharpening my skills 
 - **Machine Learning & GenAI** — Building models and AI-powered solutions @Flyrank AI
 - **Data Engineering** — Learning pipelines, ETL, and cloud infrastructure @CIL Academy
 - **Data Science** — Exploring ML, LLMs, and real-world applications @DataraFlow
-- **Full-Stack Foundations** — HTML, CSS, Tailwind, JavaScript, and React (coming soon)
 
 ---
 
