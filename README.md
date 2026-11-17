@@ -9,9 +9,8 @@ Currently interning as a **Machine Learning Engineer** and sharpening my skills 
 
 ## 🔭 What I'm Working On
 
-- **Machine Learning & GenAI** — Building models and AI-powered solutions @Flyrank AI
+- **Machine Learning, Data Science & GenAI** — Building models and AI-powered solutions, Exploring ML, LLMs, and real-world applications @DataraFlow
 - **Data Engineering** — Learning pipelines, ETL, and cloud infrastructure @CIL Academy
-- **Data Science** — Exploring ML, LLMs, and real-world applications @DataraFlow
 
 ---
 
